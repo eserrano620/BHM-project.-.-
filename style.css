@@ -1,0 +1,57 @@
+/* nav  */
+.nav{
+  background-color: lightblue ;
+  width: 100% ;
+  display: block ;
+  padding: 2px;
+}
+
+ul{
+  list-style-type: none ;
+  margin: 0;
+  padding: 0;
+  background-color: white ;
+}
+
+li{
+  display: inline;
+  padding: 25px;
+  margin: 30px;
+}
+
+/* nav end */
+
+/* main section */
+.main{
+  text-align: center
+}
+.McCoyImg{
+  width:500px;
+  
+}
+/* main end */
+
+/* row section */
+.row{
+  display:flex;
+}
+.IMG11{
+  width: 200px;
+  height: 350px;
+  
+}
+
+.bookimg{
+  width:200px;
+  height: 350px;
+}
+
+/* row end */
+
+/* footer */
+footer{
+  height: 20px ;
+  width: auto ;
+  background-color: grey ;
+  padding-top:25px;
+}
